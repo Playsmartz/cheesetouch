@@ -1,0 +1,5 @@
+last person to join gets cheese touch - fixed first person joins for now random later
+update scoring
+game passes
+new game reset - fixed
+published
